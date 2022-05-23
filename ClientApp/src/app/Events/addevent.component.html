@@ -1,0 +1,30 @@
+<form id="form" #form  [formGroup]="eventForm">
+  <h3>New Event</h3>
+  <div class="dx-fieldset">
+    <div class="dx-field">
+      <div class="dx-field-label">Title:</div>
+      <dx-text-box
+        class="dx-field-value"
+        formControlName="eventTitle"
+      ></dx-text-box>
+    </div>
+    <div class="dx-field">
+      <div class="dx-field-label">Event Date:</div>
+      <dx-date-box type="date" formControlName="eventDate"> </dx-date-box>
+    </div>
+  </div>
+  <div id="fileuploader-container">
+    <dx-file-uploader #fileUploader
+      uploadMode="uswButtons"
+      [multiple]="true"
+      (onValueChanged)="onValueChange($event)"
+    ></dx-file-uploader>
+  </div>
+
+  <dx-button
+    id="button"
+    text="Save Event"
+    type="success"
+    (onClick)="saveEvent()"
+  ></dx-button>
+</form>

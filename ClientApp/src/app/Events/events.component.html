@@ -1,0 +1,29 @@
+<div style="margin-bottom:10px ;">
+<dx-button
+  id="button"
+  text="Add Event"
+  type="success"
+  (onClick)="addEvent()"
+></dx-button>
+<dx-button style="margin-left:3px ;"
+  id="button"
+  text="Edit Event"
+  type="danger"
+  (onClick)="editEvent()"
+></dx-button>
+</div>
+<dx-data-grid
+  id="gridContainer"
+  #gridContainer
+  [remoteOperations]="false"
+  [allowColumnReordering]="true"
+  [rowAlternationEnabled]="true"
+  [showBorders]="true"
+  [dataSource]="events"
+  [selectedRowKeys]="[]"
+>
+  <dxo-selection mode="single"></dxo-selection>
+  <dxi-column dataField="title" caption="Event Title"></dxi-column>
+  <dxi-column dataField="eventDate" dataType="date"></dxi-column>
+  <dxi-column dataField="creationDate" dataType="date"></dxi-column>
+</dx-data-grid>

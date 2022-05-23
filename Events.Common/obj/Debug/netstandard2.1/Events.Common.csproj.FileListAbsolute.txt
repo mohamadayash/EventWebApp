@@ -1,0 +1,10 @@
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Common\bin\Debug\netstandard2.1\Events.Common.deps.json
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Common\bin\Debug\netstandard2.1\Events.Common.dll
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Common\bin\Debug\netstandard2.1\Events.Common.pdb
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Common\obj\Debug\netstandard2.1\Events.Common.csproj.AssemblyReference.cache
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Common\obj\Debug\netstandard2.1\Events.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Common\obj\Debug\netstandard2.1\Events.Common.AssemblyInfoInputs.cache
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Common\obj\Debug\netstandard2.1\Events.Common.AssemblyInfo.cs
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Common\obj\Debug\netstandard2.1\Events.Common.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Common\obj\Debug\netstandard2.1\Events.Common.dll
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Common\obj\Debug\netstandard2.1\Events.Common.pdb

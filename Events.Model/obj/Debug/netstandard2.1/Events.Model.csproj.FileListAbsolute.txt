@@ -1,0 +1,13 @@
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\bin\Debug\netstandard2.1\Events.Model.deps.json
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\bin\Debug\netstandard2.1\Events.Model.dll
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\bin\Debug\netstandard2.1\Events.Model.pdb
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\bin\Debug\netstandard2.1\Events.Common.dll
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\bin\Debug\netstandard2.1\Events.Common.pdb
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\obj\Debug\netstandard2.1\Events.Model.csproj.AssemblyReference.cache
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\obj\Debug\netstandard2.1\Events.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\obj\Debug\netstandard2.1\Events.Model.AssemblyInfoInputs.cache
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\obj\Debug\netstandard2.1\Events.Model.AssemblyInfo.cs
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\obj\Debug\netstandard2.1\Events.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\obj\Debug\netstandard2.1\Events.Model.csproj.CopyComplete
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\obj\Debug\netstandard2.1\Events.Model.dll
+C:\Users\Mohamad.Ayash\source\repos\EventsWebApp\Events.Model\obj\Debug\netstandard2.1\Events.Model.pdb
